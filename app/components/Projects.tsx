@@ -5,18 +5,18 @@ const PROJECTS = [
     title: "Journal Web App",
     description:
       "Full-stack journaling app with React, Node.js, Express, and MongoDB, enabling users to securely log in and manage journal entries with CRUD functionality.",
-    href: "https://github.com/vsudele15/TO-DO-list-App",
+    href: "https://github.com/vsudele15/Journal-app",
   },
   {
     title: "Spotify Album Finder",
     description: "Web app that allows users to search for an artist by name and retrieve a list of their albums using the Spotify API.",
-    href: "https://github.com/vsudele15/TO-DO-list-App",
+    href: "https://github.com/vsudele15/Spotify_Album_Finder",
   },
   {
     title: "Norman DB Incident Data Pipeline Optimization",
     description:
       "Involved enhancing a data pipeline with Python scripts to process and integrate daily incident summary PDFs, while optimizing performance through caching for geocoding and weather data.",
-    href: "https://github.com/vsudele15/TO-DO-list-App",
+    href: "https://github.com/vsudele15/cis6930sp24-assignment0",
   },
 ];
 

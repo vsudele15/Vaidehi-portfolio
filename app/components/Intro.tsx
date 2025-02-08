@@ -12,7 +12,7 @@ function Intro() {
         <a
           className="text-accent"
           target="_blank"
-          href="https://d2vwxessb8tj4z.cloudfront.net/files/resume.pdf"
+          href="https://drive.google.com/file/d/14RcqAXLX-QwrTI65wwdwnrsqzdwO7Y9R/view?usp=sharing"
         >
           Resume
         </a>
