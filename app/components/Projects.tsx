@@ -2,15 +2,15 @@ import Link from "next/link";
 
 const PROJECTS = [
   {
-    title: "Journal Web App",
+    title: "Sentify",
     description:
-      "Full-stack journaling app with React, Node.js, Express, and MongoDB, enabling users to securely log in and manage journal entries with CRUD functionality.",
-    href: "https://github.com/vsudele15/Journal-app",
+      "Sentify is an AI-powered financial tracker that helps you monitor, analyze, and understand your spending habits with smart insights and real-time updates.",
+    href: "https://github.com/vsudele15/Sentify" ,
   },
   {
-    title: "Spotify Album Finder",
-    description: "Web app that allows users to search for an artist by name and retrieve a list of their albums using the Spotify API.",
-    href: "https://github.com/vsudele15/Spotify_Album_Finder",
+    title: "Journal Web App",
+    description: "Full-stack journaling app with React, Node.js, Express, and MongoDB, enabling users to securely log in and manage journal entries with CRUD functionality.",
+    href: "https://github.com/vsudele15/Journal-app",
   },
   {
     title: "Norman DB Incident Data Pipeline Optimization",

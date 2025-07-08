@@ -3,7 +3,7 @@ import Logo from "./Logo";
 
 const WORK_EXPERIENCES = [
   {
-    image: "https://media.licdn.com/dms/image/v2/D4E0BAQElTw2wjAwp2w/company-logo_200_200/company-logo_200_200/0/1738302519137?e=1746662400&v=beta&t=AbO7Cafi2OR9np8R_-0JB_YjydUjyHOcST2Kx8nqFSA",
+    image: "https://media.licdn.com/dms/image/v2/D4E0BAQG-h7HkZDxf6w/company-logo_200_200/B4EZdHM3eGGcAI-/0/1749246245236?e=1757548800&v=beta&t=HRZ3EvkbegAnC4lMfOIFP7NvOyEDceYkZ0rlg0W4eHQ",
     company: "Sports Excitement LLC",
     role: "Software Engineer Intern (Fullstack)",
     loc: "New york, USA",

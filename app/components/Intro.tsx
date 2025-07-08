@@ -12,7 +12,7 @@ function Intro() {
         <a
           className="text-accent"
           target="_blank"
-          href="https://drive.google.com/file/d/1XFlpLDY_MB0ttqatdWD3G6qNc6f5q_x_/view?usp=sharing"
+          href="https://drive.google.com/file/d/1_SIahHMZQc3R0S9bPRe5BrKzD8dx08gr/view?usp=sharing"
         >
           Resume
         </a>
@@ -20,7 +20,7 @@ function Intro() {
         <a
           className="text-accent"
           target="_blank"
-          href="mailto:vsudele@ufl.edu"
+          href="mailto:vaidehiusa03@gmail.com"
         >
           <span className="sr-only">Email</span>
           <Mail className="h-6 w-6 text-accent" />

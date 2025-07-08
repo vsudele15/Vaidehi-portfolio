@@ -9,7 +9,7 @@ const EDUCATION = [
     loc: "Gainesville, Florida, USA",
     deg: "Master of Science, Computer Science",
     from: "Aug 2023",
-    to: "Present",
+    to: "May 2025",
     gpa: "3.66/4",
   },
   {
