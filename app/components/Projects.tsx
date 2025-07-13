@@ -13,10 +13,16 @@ const PROJECTS = [
     href: "https://github.com/vsudele15/Journal-app",
   },
   {
-    title: "Norman DB Incident Data Pipeline Optimization",
+    title: "Fanta Animated Website - Frontend",
     description:
-      "Involved enhancing a data pipeline with Python scripts to process and integrate daily incident summary PDFs, while optimizing performance through caching for geocoding and weather data.",
-    href: "https://github.com/vsudele15/cis6930sp24-assignment0",
+      "The Fanta Animated Website is a vibrant, visually rich frontend designed to represent the Fanta brand through playful animations. Built to captivate users, the site uses motion design and smooth transitions to create an immersive digital environment that reflects Fanta’s fun, energetic identity.",
+    href: "https://wanta-fanta.vercel.app/",
+  },
+  {
+    title: "Keithson Bakery Website - Frontend",
+    description:
+      "Frontend of a bakery website. Developed with React.js",
+    href: "https://keithston-bakery.vercel.app/",
   },
 ];
 
